@@ -42,7 +42,9 @@ const Tempapp = () => {
             <h2 className="location">
             <i className="fas fa-street-view"></i>{search}
             </h2>
-            <h1 className="temp">{city.temp}°Cel</h1>
+            <h1 className="temp">
+            <i className="fas fa-cloud-meatball"></i>{city.temp}°Cel</h1>
+           
             <h3 className="tempmin_max">Min :{city.temp_min} |Max :{city.temp_max}</h3>
         </div>
         <div className="wave-one"></div>
