@@ -19,6 +19,7 @@ Search box|live weather forecast
 
 image of websites
 
-![Screenshot (3)](https://user-images.githubusercontent.com/88958994/147391565-7b82c2bd-33ae-4592-8b13-c1fbba19e77d.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/88958994/147585499-10d79191-f8a6-4a46-8084-867bdf8de39f.png)
+
 
 
